@@ -61,3 +61,11 @@ options for conflict:
 Далее командой **git push** отправляем файл [README.md](http://README.md) в удаленную репозиторию, там мы его можем редактировать. В Github не нужно сохранять **ctrl+s.**
 
 После редактирования файла Readme в редакторе Github, необходимо подгрузить данные в VSC командой **git pull.**
+
+## Pemember
+
+**Перед началом работы мы должны убедится, что локальный и удаленный репозиторий синхронизированы:**
+ - git pull
+Already up to date.
+- git push
+Everything up-to-date
