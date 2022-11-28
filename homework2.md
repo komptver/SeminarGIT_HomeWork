@@ -42,3 +42,7 @@ options for conflict:
 2. accept incoming change - признать, то что нам пришло из другой ветки
 3. accept both change - оставить оба варианта
 4. compare changes сравнить варианты
+
+# Remote repository
+
+**_GitHub_** - это сервис, который позволяет интегрироваться в Git - это программа.
