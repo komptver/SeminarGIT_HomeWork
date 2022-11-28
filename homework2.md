@@ -69,3 +69,11 @@ options for conflict:
 Already up to date.
 - git push
 Everything up-to-date
+
+## Pull request - изменение кода в чужом репозитории
+
+Fork - это копия репозитория
+
+кнопка **Fork,** далее необходимо синхронизировать с локальным. Создадим папку, например **forkrepository.** Далее клонируем в данную папку, указываем адрес, например: **hhhps://github.com/PavelGeekBrains/MorningSeminar/**
+
+И в VSC нажимаем команду: git push - отправляем в удаленный репозиторий.
